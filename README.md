@@ -12,4 +12,4 @@ GET to `http://statsapi.mlb.com/api/v1/teams/{teamId}/roster?rosterType=active`
 
 ### Bonus
 
-- Add some styling to the component to make it more presentable
+Add some styling to the component to make it more presentable
