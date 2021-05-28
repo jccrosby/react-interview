@@ -1,14 +1,5 @@
 # React Interview
 
-To start this project:
-
-1. `yarn install`
-2. `yarn start`
-
-This will start the project.
-
-or
-
 Fork this template from [codesandbox.io](https://codesandbox.io/s/react-interview-j63bl).
 
 ## Prompt
